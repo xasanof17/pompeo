@@ -197,6 +197,7 @@
     border-radius: none;
     cursor: pointer;
     z-index: 1000;
+    transition: 0.5s;
   }
 
   .menu-btn.active {
